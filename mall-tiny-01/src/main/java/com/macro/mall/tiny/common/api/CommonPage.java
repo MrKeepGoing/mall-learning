@@ -5,7 +5,7 @@ import com.github.pagehelper.PageInfo;
 import java.util.List;
 
 /**
- * 分页数据封装类
+ * 分页数据封装类1
  * Created by macro on 2019/4/19.
  */
 public class CommonPage<T> {
